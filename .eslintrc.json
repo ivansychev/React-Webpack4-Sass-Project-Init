@@ -17,6 +17,9 @@
     "eslint:recommended",
     "plugin:react/recommended"
   ],
+  "plugins": [
+    "react-hooks"
+  ],
   "rules": {
     // first argument: 0 - silent, 1 - warning, 2 - error
     "brace-style": [
